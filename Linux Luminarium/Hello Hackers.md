@@ -25,6 +25,6 @@ This is the first module in Linux Luminarium and is supposed to teach the very b
 **Process:** Use the ```echo``` commaand to print whatever is passed as the arguemtn
 
 **Code:**
-hacker@hello~intro-to-arguments:~$ hello hackers
+```hacker@hello~intro-to-arguments:~$ hello hackers```
 
-**Flag:** pwn.college{ctRxW0VB0TG4sjr3kAwsYNcV7Pf.dhjNyUDLwcTO0czW}
+**Flag:** ```pwn.college{ctRxW0VB0TG4sjr3kAwsYNcV7Pf.dhjNyUDLwcTO0czW}```
