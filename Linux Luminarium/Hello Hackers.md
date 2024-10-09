@@ -4,7 +4,7 @@
 This is the first module in Linux Luminarium and is supposed to teach the very basics of interacting with command line
 
 
-##Intro to hacking
+## Intro to hacking
 
 **Task:** Use the ```whoami``` command in order to get the flag.
 
@@ -17,7 +17,7 @@ This is the first module in Linux Luminarium and is supposed to teach the very b
 
 
 
-##Intro to Arguments
+## Intro to Arguments
 
 
 **Task:** Use the ```echo``` command in order to get the flag.
